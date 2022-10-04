@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sheryna92
+- 👋 Hi, I’m Sheryna
 - 👀 I’m interested in business intelligence and data analyst roles. 
-- 🌱 I’m currently learning SQL and sharpening my skills in Power BI. 
+- 🌱 I’m currently learning SQL and sharpening my skills in Power BI.
 - 💞️ I’m looking to collaborate on projects which can showcase the application of the tools I learnt. 
 - 📫 You can reach me at sheryna92@gmail.com
 
